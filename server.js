@@ -5,7 +5,7 @@ require('dotenv').config();
 require('./models/Message');
 mongoose.connect(process.env.MONGO_URI);
 
-const port = process.env.PORT;
+const port = process.env.PORT || 5000;
 const bodyParser = require('body-parser');
 
 app.use(bodyParser.json());
