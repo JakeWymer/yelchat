@@ -17,7 +17,6 @@ Use cases:
   - Node
   - MongoDB
   - Socket io
-  - Yelp API
 
 # Have any questions?
 Head to jakewymer.com and get in contact with me!
