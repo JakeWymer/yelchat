@@ -15,7 +15,7 @@ class Chat extends Component {
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
 
-    this.socket = io('http://localhost:5001');
+    this.socket = io('http://localhost:5000');
   }
 
   async componentDidMount() {
