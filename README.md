@@ -9,7 +9,6 @@ YelChat is a community driven website that enables users to search for businesse
 Use cases:
   - Avoid over-crowded bars and restaurants
   - Find out about unannounced specials
-  - Wait for an obnoxious party to leave
 
 # Tech
 
